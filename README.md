@@ -1,1 +1,2 @@
 # Python_Mini_Projects
+We are in 2022. we all know that the industry is growing day by day. if you see from 2013 to 2019 the growth of python in the industry is around 40% and it is said that it will grow up to 20% more in the next few years. the increased rate of python developers is increased by 30% in the past few years.so there is no better time for learning python and to learn python there is no better way than doing projects. I have listed few Python Mini Projects along with source code.
